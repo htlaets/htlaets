@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm htlaets 👋</h1>
 
-<h3 align="center">Aspiring Data Analyst | Python • SQL • Power BI • Business Analytics</h3>
+<h3 align="center"> Data Analyst | Python • SQL • Power BI • Business Analytics</h3>
 
 <p align="center">
   I build data analytics projects focused on business metrics, customer behavior, sales performance and decision-making.
