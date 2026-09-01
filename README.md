@@ -51,3 +51,5 @@
 ## Контакты
 
 [Telegram](https://t.me/htlaets) · [Email](mailto:daniil.nasa@mail.ru)
+
+<!-- profile: data-engineer -->
