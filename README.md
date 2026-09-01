@@ -1,4 +1,4 @@
-# Даниил Бычков — Data Engineer
+# Даниил Бычков
 
 Создаю ETL/ELT-пайплайны, проектирую модели данных и аналитические витрины. Работаю с Python, SQL, PySpark, Airflow и PostgreSQL/Greenplum.
 
