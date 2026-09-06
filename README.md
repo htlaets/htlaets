@@ -7,7 +7,7 @@
 - **Data Engineering:** Apache Airflow, Apache Spark / PySpark, ETL/ELT, dbt, HDFS
 - **Базы данных:** PostgreSQL, Greenplum, SQLite
 - **Разработка:** Python, SQL, pandas
-- **Инфраструктура:** Docker, Git, GitHub Actions
+- **Инфраструктура:** Docker, Git,
 - **BI:** Apache Superset, Power BI
 
 ## Проекты
